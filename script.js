@@ -26,6 +26,8 @@ console.log(customArray);
 customArray [0] = 0;
 customArray [1] = 0;
 customArray [2] = 0;
+// Перезапишите значение массива равным 0;
+// имелось в виду перезаписать переменную customArray равной нулю
 console.log(customArray);
 
 //task5
