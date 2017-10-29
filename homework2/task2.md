@@ -2,28 +2,27 @@
 
 Определите результат и тип переменных в следующих случаях:
 
-    ```javascript
-
+```javascript
 var r = '9' + 0; // 90
 
 var r = 9 + '0'; // 90
 
 var r = 4 + 9; // 13
 
-var r = null + 7;// 7
+var r = null + 7; // 7
 
-var r = '6' + null;// 6null
+var r = '6' + null; // 6null
 
 var r = '6' + []; //6
 
-var r = '6' + undefined;// 6undefined
+var r = '6' + undefined; // 6undefined
 ```
 
 ## 2 задание
 
 Будет ли верным  выражение:
 
-    ```javascript
+```javascript
 2/3 + 1 + 1/3 == 2 //нет, ответ не может быть целым числом т.к суммирутся переодические дроби
 
 Опишите почему да или нет?
@@ -33,7 +32,7 @@ var r = '6' + undefined;// 6undefined
 
 Определите результат в следующих случаях:
 
-    ```javascript
+```javascript
 var r;
 var t = ++2;// (Инкремент/декремент можно применить только к переменной. Код 5++ даст ошибку. https://learn.javascript.ru/operators)
 var u = 1++;
