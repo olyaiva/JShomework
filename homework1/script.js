@@ -54,8 +54,3 @@ complexObj.soclink = {
 var all = `My name is ${complexObj.name}.I am ${complexObj.age} years old. I have a lot of friends, but the best one is 
 ${complexObj.friends[2]}.You can find me on facebook: ${complexObj.soclink.facebook} or google:${complexObj.soclink.google}`;
 console.log(all);
-
-
-var r;
-var t = ++2;
-console.log(r = t + 2--);
