@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3e058e8-ae21-4403-97ea-2b6423e995fa" name="Default" comment="add task 1 and 3">
+    <list default="true" id="e3e058e8-ae21-4403-97ea-2b6423e995fa" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/homework2/task1.md" afterPath="$PROJECT_DIR$/homework2/task1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/homework2/task3.md" afterPath="$PROJECT_DIR$/homework2/task3.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,7 +18,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/homework1/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
@@ -29,8 +31,8 @@
       <file leaf-file-name="task3.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/homework2/task3.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1485">
-              <caret line="99" column="32" lean-forward="false" selection-start-line="99" selection-start-column="32" selection-end-line="99" selection-end-column="32" />
+            <state relative-caret-position="135">
+              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -49,14 +51,14 @@
       <file leaf-file-name="task1.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/homework2/task1.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="915">
-              <caret line="61" column="3" lean-forward="false" selection-start-line="61" selection-start-column="3" selection-end-line="61" selection-end-column="3" />
+            <state relative-caret-position="660">
+              <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task2.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="task2.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/homework2/task2.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="975">
@@ -90,9 +92,9 @@
         <option value="$PROJECT_DIR$/homework2/task3.js" />
         <option value="$PROJECT_DIR$/homework2/task1.js" />
         <option value="$PROJECT_DIR$/homework2/task2.md" />
+        <option value="$PROJECT_DIR$/homework1/script.js" />
         <option value="$PROJECT_DIR$/homework2/task1.md" />
         <option value="$PROJECT_DIR$/homework2/task3.md" />
-        <option value="$PROJECT_DIR$/homework1/script.js" />
       </list>
     </option>
   </component>
@@ -103,8 +105,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="63" />
-    <option name="y" value="35" />
+    <option name="x" value="10" />
+    <option name="y" value="48" />
     <option name="width" value="1502" />
     <option name="height" value="708" />
   </component>
@@ -205,7 +207,7 @@
       <updated>1508100059950</updated>
       <workItem from="1508100064110" duration="6335000" />
       <workItem from="1509291123431" duration="9038000" />
-      <workItem from="1509309868293" duration="4632000" />
+      <workItem from="1509309868293" duration="5148000" />
     </task>
     <task id="LOCAL-00001" summary="add homework_lesson1">
       <created>1508106287914</created>
@@ -263,14 +265,21 @@
       <option name="project" value="LOCAL" />
       <updated>1509311087502</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add task 1 and 3">
+      <created>1509363321033</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1509363321033</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20005000" />
+    <option name="totallyTimeSpent" value="20521000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="63" y="35" width="1502" height="708" extended-state="0" />
+    <frame x="10" y="48" width="1502" height="708" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23700203" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -320,7 +329,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add homework_lesson1" />
     <MESSAGE value="upd" />
-    <option name="LAST_COMMIT_MESSAGE" value="upd" />
+    <MESSAGE value="add task 1 and 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add task 1 and 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -447,10 +457,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/homework1/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/homework2/task1.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="61" column="3" lean-forward="false" selection-start-line="61" selection-start-column="3" selection-end-line="61" selection-end-column="3" />
+        <state relative-caret-position="660">
+          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework2/task3.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -459,22 +485,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
           <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework2/task3.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1485">
-          <caret line="99" column="32" lean-forward="false" selection-start-line="99" selection-start-column="32" selection-end-line="99" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework1/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
           <folding />
         </state>
       </provider>

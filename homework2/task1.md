@@ -25,7 +25,7 @@ console.log(number); // 5
 
 ## 3
 
-    ```javascript
+```javascript
 var t = 9;
 var obj = {
     number: t
