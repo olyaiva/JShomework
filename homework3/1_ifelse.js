@@ -147,5 +147,5 @@ switch (lang){
         alert (arr[2]);
         break;
     default:
-        alert ("Wrong!");
+        alert ("wrong!!");
 };
